@@ -1,6 +1,6 @@
 package com.test.peoplemanager.repositories;
 
-import com.test.peoplemanager.model.Endereco;
+import com.test.peoplemanager.models.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

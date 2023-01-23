@@ -1,7 +1,7 @@
-package com.test.peoplemanager.dto;
+package com.test.peoplemanager.dtos;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.test.peoplemanager.model.Endereco;
+import com.test.peoplemanager.models.Endereco;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Builder;
 

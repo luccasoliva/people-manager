@@ -1,7 +1,7 @@
-package com.test.peoplemanager.mapper;
+package com.test.peoplemanager.mappers;
 
-import com.test.peoplemanager.dto.EnderecoDto;
-import com.test.peoplemanager.model.Endereco;
+import com.test.peoplemanager.dtos.EnderecoDto;
+import com.test.peoplemanager.models.Endereco;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,7 +1,7 @@
-package com.test.peoplemanager.mapper;
+package com.test.peoplemanager.mappers;
 
-import com.test.peoplemanager.dto.PessoaDto;
-import com.test.peoplemanager.model.Pessoa;
+import com.test.peoplemanager.dtos.PessoaDto;
+import com.test.peoplemanager.models.Pessoa;
 import org.springframework.stereotype.Component;
 
 @Component

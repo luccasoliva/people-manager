@@ -1,9 +1,9 @@
 package com.test.peoplemanager.services;
 
-import com.test.peoplemanager.dto.EnderecoDto;
-import com.test.peoplemanager.mapper.EnderecoMapper;
-import com.test.peoplemanager.model.Endereco;
-import com.test.peoplemanager.model.Pessoa;
+import com.test.peoplemanager.dtos.EnderecoDto;
+import com.test.peoplemanager.mappers.EnderecoMapper;
+import com.test.peoplemanager.models.Endereco;
+import com.test.peoplemanager.models.Pessoa;
 import com.test.peoplemanager.repositories.EnderecoRepository;
 import com.test.peoplemanager.repositories.PessoaRepository;
 import com.test.peoplemanager.services.exceptions.ResourceNotFoundException;

@@ -1,4 +1,4 @@
-package com.test.peoplemanager.model;
+package com.test.peoplemanager.models;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import javax.persistence.*;

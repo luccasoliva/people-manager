@@ -1,6 +1,6 @@
-package com.test.peoplemanager.controller;
+package com.test.peoplemanager.controllers;
 
-import com.test.peoplemanager.dto.PessoaDto;
+import com.test.peoplemanager.dtos.PessoaDto;
 import com.test.peoplemanager.services.PessoaService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;

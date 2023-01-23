@@ -1,7 +1,7 @@
-package com.test.peoplemanager.controller;
+package com.test.peoplemanager.controllers;
 
 
-import com.test.peoplemanager.dto.EnderecoDto;
+import com.test.peoplemanager.dtos.EnderecoDto;
 import com.test.peoplemanager.services.EnderecoService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.test.peoplemanager.dto;
+package com.test.peoplemanager.dtos;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Builder;

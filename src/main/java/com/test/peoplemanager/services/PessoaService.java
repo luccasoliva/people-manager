@@ -1,8 +1,8 @@
 package com.test.peoplemanager.services;
 
-import com.test.peoplemanager.dto.PessoaDto;
-import com.test.peoplemanager.mapper.PessoaMapper;
-import com.test.peoplemanager.model.Pessoa;
+import com.test.peoplemanager.dtos.PessoaDto;
+import com.test.peoplemanager.mappers.PessoaMapper;
+import com.test.peoplemanager.models.Pessoa;
 import com.test.peoplemanager.repositories.PessoaRepository;
 import com.test.peoplemanager.services.exceptions.ResourceNotFoundException;
 import lombok.AllArgsConstructor;
