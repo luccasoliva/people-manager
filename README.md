@@ -5,4 +5,4 @@
 
 <p><h4>Documentação no Swagger: <h4> http://localhost:8080/swagger-ui/</p>
 
-<h4>Testes dos Services realizados utilizando JUnit e Mockito</h4><br>
+<h4>Testes dos Services foram realizados utilizando JUnit e Mockito</h4><br>
